@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers"
+        }
+    ]
+}
